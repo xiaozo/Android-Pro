@@ -1,0 +1,1 @@
+include ':app',':lib', ':qmui', ':lib', ':compiler', ':qmuilint', ':qmuilintrule', ':arch'

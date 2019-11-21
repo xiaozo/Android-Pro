@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- common -->
+    <color name="app_color_blue">#00A8E1</color>
+    <color name="app_color_blue_disabled">#8000A8E1</color>
+    <color name="app_color_blue_pressed">#c000A8E1</color>
+
+    <color name="app_color_blue_2">#31BDF3</color>
+    <color name="app_color_blue_2_disabled">#7F31BDF3</color>
+    <color name="app_color_blue_2_pressed">#7F31BDF3</color>
+
+    <color name="app_color_theme_1">#EF5362</color> <!-- Grapefruit -->
+    <color name="app_color_theme_2">#FE6D4B</color> <!-- Bittersweet -->
+    <color name="app_color_theme_3">#FFCF47</color> <!-- Sunflower -->
+    <color name="app_color_theme_4">#9FD661</color> <!-- Grass -->
+    <color name="app_color_theme_5">#3FD0AD</color> <!-- Mint -->
+    <color name="app_color_theme_6">#2BBDF3</color> <!-- Aqua -->
+    <color name="app_color_theme_7">#5A9AEF</color> <!-- Blue Jeans -->
+    <color name="app_color_theme_8">#AC8FEF</color> <!-- Lavender -->
+    <color name="app_color_theme_9">#EE85C1</color> <!-- Pink Rose -->
+
+    <color name="app_color_description">@color/qmui_config_color_gray_5</color>
+
+    <color name="bar_divider">#D4D6D8</color>
+    <color name="tab_panel_bg">#ffffff</color>
+    <color name="tab_panel_divider">@color/bar_divider</color>
+
+    <!-- Components 组件 -->
+    <color name="radiusImageView_border_color">@color/app_color_theme_2</color>
+    <color name="radiusImageView_selected_border_color">@color/app_color_theme_1</color>
+    <color name="radiusImageView_selected_mask_color">#7FEF5362</color>
+
+    <!-- Helper 系列界面 -->
+
+    <!-- ColorHelper 颜色工具 -->
+    <color name="colorHelper_square_alpha_background">@color/app_color_theme_4</color>
+    <color name="colorHelper_square_from_ratio_background">@color/app_color_blue</color>
+    <color name="colorHelper_square_to_ratio_background">@color/app_color_theme_3</color>
+
+    <!--MainActivity 主题颜色 -->
+    <color name="colorMainDrawerPrimary">#FE9B00</color>
+    <color name="colorMainDrawerPrimaryDark">#FE9B00</color>
+    <color name="colorMainDrawerAccent">#FE9B00</color>
+
+
+    <!--Toolbar Back 颜色-->
+    <color name="color_toolbar_appbar_bg">#FE9B00</color>
+    <color name="color_toolbar_text">#FFFFFF</color>
+    <color name="color_main_toolbar_appbar_bg">#FE9B00</color>
+
+
+    <!--   ~~~~~~~~~~~~~~~~~~  登录    ~~~~~~~~~~~~~~~~~~~~~~     -->
+    <!--登录输入框 选中 未选中状态 字体的颜色-->
+    <color name="tab_login_press">#FE9B00</color>
+    <color name="tab_login_nor">#999</color>
+    <!--登录输入框 选中 未选中状态 下划线的颜色-->
+    <color name="login_edit_selector_bgColor1">#FE9B00</color>
+    <color name="login_edit_selector_bgColor2">#FE9B00</color>
+    <color name="login_edit_selector_bgColor3">#FE9B00</color>
+    <!--登陆输入框光标颜色-->
+    <color name="login_edit_cursor_color">#FE9B00</color>
+
+    <!--Button 通用颜色-->
+    <color name="color_btn_bg">#FE9B00</color>
+    <color name="color_btn_bg2">#FE6B00</color>
+
+    <!--登录按钮的背景颜色-->
+    <color name="color_login_btn_bg">#FE9B00</color>
+    <!--登录界面 忘记密码 新用户注册 文字的颜色-->
+    <color name="color_login_text">#FE9B00</color>
+</resources>
